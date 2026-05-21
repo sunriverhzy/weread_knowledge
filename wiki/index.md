@@ -4,6 +4,22 @@
 
 ---
 
+## 🎯 个人阅读偏好分析（新）
+
+| 页面 | 内容 |
+|------|------|
+| [[preferences/index]] | **偏好分析总入口** ⭐ |
+| [[overall-profile]] | 总体阅读画像 |
+| [[category-evolution]] | 分类偏好历年演变 |
+| [[author-preferences]] | 作者偏好深度分析 |
+| [[reading-time-patterns]] | 阅读时段与节奏模式 |
+| [[reading-suggestions-2026]] | **2026 阅读建议（重点）** ⭐ |
+| [[year-2025-profile]] | 2025 巅峰年快照 |
+| [[year-2024-profile]] | 2024 爆发年快照 |
+| [[year-2023-profile]] | 2023 觉醒年快照 |
+
+---
+
 ## 阅读概览
 
 - **总阅读天数:** 1,061 天
