@@ -140,11 +140,14 @@
 | [[evolution-and-selfishness]] | 进化与自私 | 科学 | 2+ |
 | [[nature-of-technology]] | 技术的本质 | 科学/经济 | 2+ |
 | [[scaling-laws-in-nature]] | 自然中的规模法则 | 科学 | 2+ |
-| [[addiction-and-emptiness]] | 成瘾与空虚 | 心理 | 1+ |
-| [[intimate-relationships]] | 亲密关系 | 心理 | 1+ |
-| [[latin-america-identity]] | 拉丁美洲身份 | 历史/社会 | 2+ |
+| [[addiction-and-emptiness]] | 成瘾与空虚 | 心理/社会 | 4+ |
+| [[intimate-relationships]] | 亲密关系 | 心理 | 3+ |
+| [[four-ultimate-concerns]] | 四大终极关怀 | 心理/哲学 | 4+ |
+| [[childhood-trauma]] | 创伤与代际传递 | 心理/社会/历史 | 5+ |
+| [[latin-america-identity]] | 拉丁美洲身份 | 历史/社会 | 4+ |
 | [[economic-thought-history]] | 经济思想史 | 经济 | 2+ |
 | [[manufacturing-decline]] | 制造业衰落 | 经济/技术 | 1+ |
+| [[human-nature-across-books]] | 人性探索 | 文学/心理/科学 | 5+ |
 
 ---
 
